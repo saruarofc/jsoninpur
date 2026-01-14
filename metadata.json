@@ -1,0 +1,5 @@
+{
+  "name": "ExamDigitizer AI",
+  "description": "A sophisticated tool to convert MCQ exam screenshots and PDFs into structured, searchable digital question banks using Gemini AI OCR and intelligent categorization.",
+  "requestFramePermissions": []
+}
